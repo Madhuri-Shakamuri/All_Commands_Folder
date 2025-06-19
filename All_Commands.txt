@@ -1,0 +1,61 @@
+Java Supports multiple versions
+
+1.Installing java 17
+sudo apt update
+sudo apt install openjdk-17-jdk
+
+2.Select respective version
+sudo update-alternatives --config java
+sudo update-alternatives --config javac  
+
+3.Version Change:
+cntrl +shift+p - java configure  - change the version of java
+
+4.Instgram Clone:
+Post for user
+{
+  "userName": "Madhuri",
+  "password": "Madhuri@123"
+}
+
+Post for post
+{
+  "content": "Hey!I am into teams now.",
+  "userId": 2
+}
+
+5.Issues:
+mvn clean install
+mvn spring-boot:run
+Killing the port 
+sudo lsof -i:8080
+sudo kill -9 XXXXX
+
+6.Git commands
+
+1.To clone repository
+git clone github repo url
+cd repo-name
+
+2.For initial commit
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/madhuri-shakamuri/instagramclone.git
+git push -u origin main
+
+3.For already existing repo
+git status
+git add .
+git commit -m "Added "
+git push origin main
+
+7.Passwords
+spring.datasource.username=SA
+spring.datasource.password=Madhuri@2002
+
+
+spring.security.user.name=Madhuri
+spring.security.user.password=Madhuri@123
+
+
