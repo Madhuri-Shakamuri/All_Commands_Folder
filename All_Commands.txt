@@ -50,6 +50,15 @@ git add .
 git commit -m "Added "
 git push origin main
 
+4.Can push directly to main branch after cloning without remote changes after cloning 
+git branch
+git fetch origin
+git status
+Your branch is up to date with 'origin/main'. ✅ → You can safely push!
+git add .
+git commit -m "Updated JWT filter and security config, added response package"
+git push origin main
+
 7.Passwords
 spring.datasource.username=SA
 spring.datasource.password=Madhuri@2002
@@ -58,4 +67,640 @@ spring.datasource.password=Madhuri@2002
 spring.security.user.name=Madhuri
 spring.security.user.password=Madhuri@123
 
+soring bot 17 version java maven project github
 
+
+
+
+sudo apt update
+sudo apt install python3 python3-pip python3-venv -y
+
+python3 --version
+pip3 --version
+
+
+
+
+
+
+madhuri@test-6-ThinkPad-E14-Gen-2:/$ history
+   88  systemctl service docker
+   89  systemctl status docker
+   90  sudo ufw allow 1433
+   91  sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<imaginnovate>" -p 1433:1433 --name sql2 --hostname sql2 -d mcr.microsoft.com/mssql/server:2019-latest
+   92  sudo docker ps -a
+   93  sudo docker pull mcr.microsoft.com/mssql/server:2019-latest~
+   94  sudo docker pull mcr.microsoft.com/mssql/server:2019-latest
+   95  sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<YourStrong@Passw0rd>"    -p 1433:1433 --name sql1 --hostname sql1    -d    mcr.microsoft.com/mssql/server:2019-latest
+   96  sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=<YourStrong@Passw0rd>"    -p 1433:1433 --name sql5 --hostname sql1    -d    mcr.microsoft.com/mssql/server:2019-latest
+   97  sudo docker ps -a
+   98  sudo docker start
+   99  sudo docker start sql5
+  100  sudo docker stop sql5
+  101  sudo docker start sql5
+  102  sudo docker start
+  103  sudo docker ps -a
+  104  sudo docker start sql5
+  105  cd ~/Downloads unzip sqljdbc_12.10.0.0_enu.zip
+  106  cd ~/Downloads
+  107  unzip sqljdbc_12.10.0.0_enu.zip
+  108  java --version
+  109  cd sqljdbc_12.10/enu
+  110  ls mssql-jdbc*.jar
+  111  find . -name "mssql-jdbc*.jar"
+  112  /home/madhuri/Downloads/sqljdbc_12.10/enu/jars/mssql-jdbc-12.10.0.jre11.jar
+  113  cd /home/madhuri/Documents/Projects/StudentManagementSystem
+  114  mkdir -p /home/madhuri/Documents/Projects/StudentManagementSystem/lib
+  115  cp /home/madhuri/Downloads/sqljdbc_12.10/enu/jars/mssql-jdbc-12.10.0.jre11.jar /home/madhuri/Documents/Projects/StudentManagementSystem/lib/
+  116  cp /home/madhuri/Downloads/sqljdbc_12.10/enu/jars/mssql-jdbc-12.10.0.jre11.jar \/home/madhuri/Documents/Projects/StudentManagementSystem/lib/
+  117  ls
+  118  ls lib
+  119  javac -cp .:lib/mssql-jdbc-12.10.0.jre11.jar *.java
+  120  sudo docker start sql5
+  121  code
+  122  cd StudentManagementSystem/lib/
+  123  ~cd StudentManagementSystem/lib/
+  124  StudentManagementSystem/lib/
+  125  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  126  cd
+  127  ls src/StudentManagementSystem/
+  128  cd ~/Documents/Projects/StudentManagementSystem
+  129  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  130  ls bin/StudentManagementSystem/
+  131  ls bin/StudentManagementSystem/
+  132  cd ~/Documents/Projects/StudentManagementSystem
+  133  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  134  ls bin/StudentManagementSystem/
+  135  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  136  cd ~/Documents/Projects/StudentManagementSystem
+  137  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  138  ls bin/StudentManagementSystem/
+  139  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  140  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  141  ls bin/StudentManagementSystem/
+  142  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  143  cd ~/Documents/Projects/StudentManagementSystem
+  144  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  145  ls bin/StudentManagementSystem/
+  146  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  147  cd ~/Documents/Projects/StudentManagementSystem
+  148  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  149  ls bin/StudentManagementSystem/
+  150  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  151  cd ~/Documents/Projects/StudentManagementSystem
+  152  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  153  ls bin/StudentManagementSystem/
+  154  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  155  cd ~/Documents/Projects/StudentManagementSystem
+  156  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  157  ls bin/StudentManagementSystem/
+  158  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  159  cd ~/Documents/Projects/StudentManagementSystem
+  160  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  161  ls bin/StudentManagementSystem/
+  162  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  163  cd ~/Documents/Projects/StudentManagementSystem
+  164  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  165  ls bin/StudentManagementSystem/
+  166  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  167  cd ~/Documents/Projects/StudentManagementSystem
+  168  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  169  ls bin/StudentManagementSystem/
+  170  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  171  cd ~/Documents/Projects/StudentManagementSystem
+  172  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  173  ls bin/StudentManagementSystem/
+  174  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  175  cd ~/Documents/Projects/StudentManagementSystem
+  176  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  177  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  178  cd ~/Documents/Projects/StudentManagementSystem
+  179  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  180  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  181  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  182  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  183  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  184  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  185  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  186  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  187  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  188  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  189  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  190  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  191  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  192  java -cp "bin:lib/*" StudentManagementSystem.StudentApp
+  193  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  194  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  195  javac -cp "lib/*" -d bin src/CategoryProject/*.java
+  196  java -cp "bin:lib/*" CategoryProject.CategoryApp
+  197  javac -cp "lib/*" -d bin src/CategoryProject/*.java
+  198  java -cp "bin:lib/*" CategoryProject.CategoryApp
+  199  javac -cp "lib/*" -d bin src/CategoryProject/*.java
+  200  java -cp "bin:lib/*" CategoryProject.CategoryApp
+  201  javac -cp "lib/*" -d bin src/CategoryProject/*.java
+  202  java -cp "bin:lib/*" CategoryProject.CategoryApp
+  203  javac -cp "lib/*" -d bin src/CategoryProject/*.java
+  204  java -cp "bin:lib/*" CategoryProject.CategoryApp
+  205  javac -cp "lib/*" -d bin src/CategoryProject/*.java
+  206  java -cp "bin:lib/*" CategoryProject.CategoryApp
+  207  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  208  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  209  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  210  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  211  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  212  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  213  javac -cp "lib/*" -d bin src/ProductManagementSystem/*.java
+  214  java -cp "bin:lib/*" ProductManagementSystem.ProductApp
+  215  code
+  216  history
+  217  cd ~/Documents/Projects/StudentManagementSystem
+  218  ls lib
+  219  java -cp "lib/mssql-jdbc-12.2.0.jre11.jar:bin" StudentManagementSystem.StudentApp
+  220  cd ~/Documents/Projects/StudentManagementSystem
+  221  mkdir -p src/StudentManagementSystem
+  222  mv Student*.java DBConnection.java src/StudentManagementSystem
+  223  mkdir -p bin
+  224  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  225  mkdir -p bin
+  226  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  227  cd
+  228  sudo apt install openjdk-21-jdk-headless
+  229  javac -version
+  230  javac -cp "lib/*" -d bin src/StudentManagementSystem/*.java
+  231  javac -cp "lib/*" -d bin src/SalesTransactionSystem/*.java
+  232  ls lib
+  233  ls bin/SalesTransactionSystem/
+  234  javac -cp "lib/*" -d bin src/SalesTransactionSystem/*.java
+  235  java -cp "lib/mssql-jdbc-12.2.0.jre11.jar:bin" SalesTransactionSystem.SalesApp
+  236  code
+  237  code
+  238  java --version
+  239  sudo docker start sql5
+  240  mvn clean install
+  241  sudo apt install maven
+  242  cd home/madhuri/Documents/Projects/smsjpa
+  243  /home/madhuri/Documents/Projects/smsjpa
+  244  cd /home/madhuri/Documents/Projects/smsjpa
+  245  mvn clean install
+  246  ls
+  247  find . -name persistance.xml
+  248  code
+  249  cd /home/madhuri/Documents/Projects/smsjpa
+  250  java -cp "lib/mysql-connector-j-8.0.xx.jar:." com.example.App
+  251  clear
+  252  cd /home/madhuri/Documents/Projects/smsjpa
+  253  mvn clean install
+  254  java --version
+  255  cd
+  256  mvn -v
+  257  code
+  258  sudo docker start sql5
+  259  code
+  260  ls META-INF/persistence.xml
+  
+  289  sudo snap install postman
+  290  postman
+  291  sudo docker start sql5
+  292  code
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  604  netstat -tuln | grep 8080
+  605  sudo kill -9 $(sudo lsof -t -i :8080)
+  606  netstat -tuln | grep 8080
+  607  ss -tuln | grep 8080
+  608  sudo lsof -i :8080
+  609  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  610  mvn clean install
+  611  sudo lsof -i :8080
+  612  sudo docker start sql5
+  613  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  
+  
+ 
+ 
+  
+ 
+  685  sudo lsof -i :8080
+  686  sudo kill -9 613828
+  687  sudo lsof -i :8080
+  688  code
+  689  sudo docker start sql5
+  690  sudo lsof -i :8080
+  691  postman
+  692  code
+  693  sudo docker start sql5
+  694  sudo lsof -i :8080
+  695  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  696  sudo lsof -i :8080
+  697  mvn clean install
+  698  mvn spring-boot:run
+  699  mvn clean install
+  700  mvn spring-boot:run
+  701  mvn clean install
+  702  mvn spring-boot:run
+  703  sudo docker start sql5
+  704  postman
+  705  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  706  mvn clean install
+  707  mvn spring-boot:run
+  708  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  709  mvn clean install
+  710  mvn spring-boot:run
+  711  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  712  mvn clean install
+  713  mvn spring-boot:run
+  714  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  715  mvn clean install
+  716  mvn spring-boot:run
+  717  mvn clean install
+  718  mvn spring-boot:run
+  719  git status
+  720  git add .
+  721  git commit -m "Genearted the jwt token while registering a new user"
+  722  git push origin main
+  723  mvn spring-boot:run
+  724  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  725  mvn clean install
+  726  mvn spring-boot:run
+  727  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  728  mvn clean install
+  729  mvn spring-boot:run
+  730  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  731  mvn clean install
+  732  mvn spring-boot:run
+  733  git status
+  734  git add .
+  735  git commit -m "Generating token using user ID instead of username"
+  736  git push origin main
+  737  git pull origin main --rebase
+  738  sudo lsof -i :8080
+  739  sudo kill -9 6279
+  740  sudo lsof -i :8080
+  741  sudo kill -9 59059
+  742  sudo lsof -i :8080
+  743  sudo kill -9 74028
+  744  sudo lsof -i :8080
+  745  sudo kill -9 297376
+  746  code
+  747  code
+  748  sudo docker start sql5
+  749  sudo lsof -i :8080
+  750  postman
+  751  git add com.instagram.instagramclone.controller
+  752  pwd
+  753  git add /home/madhuri/Documents/instagramclone/src/main/java/com/instagram/instagramclone/controller/PostController
+  754  cd
+  755  https://github.com/Madhuri-Shakamuri/Instagram_Clone
+  756  git clone https://github.com/Madhuri-Shakamuri/Instagram_Clone
+  757  pwd
+  758  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  759  mvn clean -install
+  760  mvn clean install
+  761  "/home/madhuri/Documents/instagramclone/mvnw" clean -f "/home/madhuri/Documents/instagramclone/pom.xml"
+  762  mvn clean install
+  763  code
+  764  sudo lsof -i :8080
+  765  "/home/madhuri/Instagram_Clone/mvnw" clean -f "/home/madhuri/Instagram_Clone/pom.xml"
+  766  mvn clean install
+  767  mvn spring-boot:run
+  768  mvn clean install
+  769  mvn spring:boot run
+  770  mvn spring-boot:run
+  771  "/home/madhuri/Instagram_Clone/mvnw" clean -f "/home/madhuri/Instagram_Clone/pom.xml"
+  772  mvn clean install
+  773  mvn spring-boot:run
+  774  "/home/madhuri/Instagram_Clone/mvnw" clean -f "/home/madhuri/Instagram_Clone/pom.xml"
+  775  mvn clean install
+  776  mvn spring-boot:run
+  777  code
+  778  sudo lsof -i :8080
+  779  sudo kill -9 95620
+  780  "/home/madhuri/Instagram_Clone/mvnw" clean -f "/home/madhuri/Instagram_Clone/pom.xml"
+  781  mvn clean install
+  782  mvn spring-boot:run
+  783  git status
+  784  git branch
+  785  git fetch origin
+  786  git status
+  787  git add .
+  788  git commit -m "Generating token using user ID instead of username"
+  789  git push origin main
+  790  mvn clean install
+  791  mvn clean test
+  792  git status
+  793  git add .
+  794  git commit -m "Added unit test cases"
+  795  git push origin main
+  796  sudo usermod -aG docker $USER
+  797  code
+  798  sudo docker start sql5
+  799  java -version
+  800  sudo update-alternatives --config java
+  801  sudo update-alternatives --config javac
+  802  java -version
+  803  javac version
+  804  javac -version
+  805  sudo lsof -i :8080
+  806  postman
+  807  sudo reboot
+  808  git status
+  809  git add .
+  810  git commit -m "Upgrading the version from java 17 to java 21"
+  811  git push origin main
+  812  mvn clean install
+  813  mvn clean package
+  814  docker build -t instagram_clone .
+  815  mvn clean install
+  816  sudo lsof -i :8080
+  817  mvn clean install
+  818  java mvn clean test
+  819  mvn clean test
+  820  mvn springboot :run
+  821  mvn spring-boot:run
+  822  mvn clean package
+  823  docker build -t instagram_clone .
+  824  docker run -p 8080:8080 instagram_clone
+  825  docker build -t instagram_clone .
+  826  docker run -p 8080:8080 instagram_clone
+  827  mvn clean package
+  828  docker version
+  829  code
+  830  sudo docker start sql5
+  831  sudo lsof -i:8080
+  832  mvn clean package
+  833  mvn clean install
+  834  code
+  835  sudo docker start sql5
+  836  sudo lsof -i :8080
+  837  sudo lsof -i:8080
+  838  git clone https://github.com/Madhuri-Shakamuri/Instagram_Clone
+  839  pwd
+  840  cd Instagram_Clone
+  841  mvn clean install
+  842  mvn clean package
+  843  pwd Instagram_Clone-0.0.1-SNAPSHOT.jar
+  844  mvn clean install
+  845  mvn dependency:tree
+  846  mvn clean install
+  847  mvn dependency:tree
+  848  git status
+  849  git add .
+  850  git commit -m "CVE fixes"
+  851  git push origin main
+  852  mkdir my-project
+  853  rm -ri my-project
+  854  cd
+  855  mkdir my-project
+  856  cd  my-project
+  857  mvn clean install
+  858  python3 -m venv venv
+  859  python3 -m venv venv
+  860  java -version
+  861  javac -version
+  862  code
+  863  sudo lsof -i:8080
+  864  sudo docker start sql5
+  865  sudo apt update
+  866  sudo apt install python3 python3-pip -y
+  867  python3 --version
+  868  pip3 --version
+  869  sudo apt install python3-venv -y
+  870  python3 -m venv venv
+  871  source venv/bin/activate
+  872  mkdir src tests utils
+  873  touch src/main.py src/__init__.py utils/helpers.py tests/test_main.py requirements.txt README.md .gitignore
+  874  python src/main.py
+  875  cd
+  876  git clone https://github.com/topcoder-platform-templates/python-mysql-rest-api
+  877  cd python-mysql-rest-api
+  878  python3 -m venv venv
+  879  source venv/bin/activate
+  880  pip install -r requirements.txt
+  881  ls
+  882  pip install -r app/requirements.txt
+  883  python run.py
+  884  python app.py
+  885  python main.py
+  886  python app.py
+  887  python main.py
+  888  python app.py
+  889  cd app
+  890  python app.py
+  891  cd .
+  892  cd ..
+  893  flask db init
+  894  flask db migrate
+  895  flask db init
+  896  cd
+  897  git clone https://github.com/Syed007Hassan/Flask-MVC-Template-
+  898  cd
+  899  git clone https://github.com/Syed007Hassan/Flask-MVC-Template-
+  900  pwd
+  901  python3 -m venv venv
+  902  source venv/bin/activate
+  903  pip install -r requirements.txt
+  904  source venv/bin/activate
+  905  pip install -r requirements.txt
+  906  source venv/bin/activate
+  907  pip install -r requirements.txt
+  908  sudo apt update
+  909  sudo apt install python3-distutils
+  910  sudo apt install python3.12-venv python3.12-full
+  911  source venv/bin/activate
+  912  pip install -r requirements.txt
+  913  sudo apt install python3.12-distutils
+  914  wget https://bootstrap.pypa.io/pip/get-pip.py
+  915  python3.12 get-pip.py
+  916  source venv/bin/activate
+  917  pip install -r requirements.txt
+  918  sudo apt install python3.12-venv python3.12-dev
+  919  sudo apt install build-essential
+  920  curl -O https://bootstrap.pypa.io/pip/get-pip.py
+  921  python3.12 get-pip.py
+  922  curl -O https://bootstrap.pypa.io/pip/get-pip.py
+  923  python3.12 get-pip.py
+  924  python3.12 -m pip install setuptools wheel
+  925  rm -rf venv
+  926  python3.12 -m venv venv
+  927  source venv/bin/activate
+  928  pip install --upgrade pip setuptools wheel
+  929  pip install -r requirements.txt
+  930  rm -rf venv
+  931  python3.12 -m venv venv
+  932  pip install --upgrade pip setuptools wheel
+  933  pip install -r requirements.txt
+  934  cd app
+  935  cd .
+  936  cd ..
+  937  cd /Flask-MVC-Template-
+  938  code
+  939  sudo apt update
+  940  sudo apt install -y libxml2-dev libxslt-dev python3-dev
+  941  source venv/bin/activate
+  942  sudo apt update
+  943  sudo apt install python3-distutils
+  944  code
+  945  python3 -version
+  946  python --version
+  947  python3 --version
+  948  git clone https://github.com/Syed007Hassan/Flask-MVC-Template-
+  949  cd Flask-MVC-Template-
+  950  python -m venv venv
+  951  python3 -m venv venv
+  952  source venv/bin/activate
+  953  pip install -r requirements.txt
+  954  pip install distutils
+  955  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py~
+  956  sudo snap install curl
+  957  sudo apt-get install python3-distutils
+  958  sudo apt-get install python-distutils
+  959  sudo apt-get install distutils
+  960  pip install distutils
+  961  python3 -m pip install setuptools
+  962  pip install distutils
+  963  sudo apt-get install python3-distutils
+  964  python3.11 -m venv venv~
+  965  python3.11 -m venv venv
+  966  sudo apt install python3.11
+  967  sudo apt install python 3.11
+  968  sudo apt install python3.11
+  969  python --version
+  970  python3 --version
+  971  cd
+  972  python3 --version
+  973  cd Flask-MVC-Template-/
+  974  python3 --version
+  975  clear
+  976  source venv/bin/deactivate
+  977  source venv/bin/activate
+  978  python3 -m venv venv~
+  979  python3 -m venv venv
+  980  python -m venv venv
+  981  python3 -m venv venv
+  982  python3 -m venv .venv
+  983  python3 -m .venv venv
+  984  python3 -m venv venv
+  985  source venv/bin/activate
+  986  python3.11 -m venv venv
+  987  sudo apt install python3.11
+  988  python -m venv venv
+  989  python3 -m venv venv
+  990  source venv/bin/activate
+  991  pip install distutils
+  992  pip3 install distutils
+  993  puthon3 --version
+  994  puthon --version
+  995  python3 --version
+  996  pip install --upgrade setuptools
+  997  pyenv install 3.11.9
+  998  sudo apt update
+  999  sudo apt install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev git
+ 1000  curl https://pyenv.run | bash
+ 1001  export PATH="$HOME/.pyenv/bin:$PATH"
+ 1002  eval "$(pyenv init --path)"
+ 1003  eval "$(pyenv init -)"
+ 1004  eval "$(pyenv virtualenv-init -)"
+ 1005  pyenv --version
+ 1006  pyenv install 3.11.9
+ 1007  pyenv global 3.11.9
+ 1008  pip3 install distutils
+ 1009  pip install --upgrade pip
+ 1010  pip3 install distutils
+ 1011  cd Flask-MVC-Template-/
+ 1012  source venv/bin/activate
+ 1013  python3 -m venv venv
+ 1014  source venv/bin/activate
+ 1015  pip3 install distutils
+ 1016  pip install --upgrade pip
+ 1017  udo apt update
+ 1018  sudo apt install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+ 1019  python3.11 --version
+ 1020  sudo apt update
+ 1021  sudo apt install -y make build-essential libssl-dev zlib1g-dev   libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm   libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev   libffi-dev liblzma-dev git
+ 1022  sudo apt install pyenv
+ 1023  sudo apt install p7env
+ 1024  curl https://pyenv.run | bash
+ 1025  pyenv --version~
+ 1026  pyenv --version
+ 1027  rm -rf ~/.pyenv
+ 1028  nano ~/.bashrc
+ 1029  nano ~/.bashrc
+ 1030  export PYENV_ROOT="$HOME/.pyenv"
+ 1031  export PATH="$PYENV_ROOT/bin:$PATH"
+ 1032  eval "$(pyenv init --path)"
+ 1033  eval "$(pyenv init -)"
+ 1034  export PYENV_ROOT="$HOME/.pyenv"
+ 1035  export PATH="$PYENV_ROOT/bin:$PATH"
+ 1036  eval "$(pyenv init --path)"
+ 1037  eval "$(pyenv init -)"
+ 1038  source ~/.bashrc
+ 1039  git clone https://github.com/topcoder-platform-templates/python-mysql-rest-api.git
+ 1040  cd python-mysql-rest-api.git
+ 1041  git clone gh repo clone topcoder-platform-templates/python-mysql-rest-api
+ 1042  pwd
+ 1043  sudo apt install python3.11.13
+ 1044  cd
+ 1045  cd ..
+ 1046  cd
+ 1047  sudo apt update
+ 1048  sudo apt install python3.11.13
+ 1049  python --version
+ 1050  python3 --version
+ 1051  sudo apt install python33.11.13
+ 1052  sudo apt install python
+ 1053  sudo apt install python3
+ 1054  sudo apt install python3 3.11.13
+ 1055  python --version
+ 1056  ~python --version
+ 1057  sudo ln -s /usr/bin/python3 /usr/bin/python
+ 1058  python --version
+ 1059  sudo apt install python 3.11.13
+ 1060  sudo apt install python3.11.13
+ 1061  sudo apt update
+ 1062  sudo apt install -y software-properties-common build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+ 1063  cd /tmp
+ 1064  wget https://www.python.org/ftp/python/3.11.13/Python-3.11.13.tgz
+ 1065  python--version
+ 1066  python --version
+ 1067  sudo apt install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+ 1068  curl https://pyenv.run | bash
+ 1069  echo -e 'export PYENV_ROOT="$HOME/.pyenv"\nexport PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+ 1070  echo -e 'eval "$(pyenv init --path)"\neval "$(pyenv init -)"' >> ~/.bashrc
+ 1071  exec "$SHELL"
+ 1072  pyenv --version
+ 1073  pyenv install --list
+ 1074  pyenv install 3.11.13
+ 1075  pyenv global 3.11.13
+ 1076  python --version
+ 1077  cd ..
+ 1078  python --version
+ 1079  sudo apt install python3.10 python3.10-venv
+ 1080  pyenv install 3.11.13
+ 1081  pyenv install 3.10
+ 1082  pyenv global 3.10.18
+ 1083  python --versiom
+ 1084  python --version
+ 1085  java --version
+ 1086  History
+ 1087  history
+madhuri@test-6-ThinkPad-E14-Gen-2:/$
