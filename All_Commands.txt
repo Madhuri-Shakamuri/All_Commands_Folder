@@ -1,5 +1,8 @@
 Java Supports multiple versions
 
+Spring initializer for maven and gradle
+maven repository  for dependencies
+
 1.Installing java 17
 sudo apt update
 sudo apt install openjdk-17-jdk
