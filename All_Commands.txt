@@ -704,9 +704,6 @@ madhuri@test-6-ThinkPad-E14-Gen-2:/$ history
  1080  pyenv install 3.11.13
  1081  pyenv install 3.10
  1082  pyenv global 3.10.18
- 1083  python --versiom
  1084  python --version
- 1085  java --version
- 1086  History
- 1087  history
-madhuri@test-6-ThinkPad-E14-Gen-2:/$
+
+
